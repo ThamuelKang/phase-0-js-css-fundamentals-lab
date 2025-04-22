@@ -6,11 +6,13 @@ nav {
     position: fixed;
     width:100%;
     top: 0;
+    color:#fff;
     z-index: 1000;
+    list-style: none;
+
 }
 
 nav > ul {
-    list-style: none;
     margin: 0;
     padding: 0;
 }
