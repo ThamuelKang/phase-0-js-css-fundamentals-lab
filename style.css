@@ -65,11 +65,11 @@ section #portfolio {
 
 .portfolio-item h3 {
     font-weight: bold;
-    margin-bottom: .5em;
+    margin-bottom: 0.5em;
 }
 
 .portfolio-item p {
-    margin-bottom: .5em;
+    margin-bottom: 0.5em;
     color: #666;
 }
 
@@ -84,7 +84,7 @@ section #portfolio {
 }
 
 
-footer {
+#footer {
     background-color: #2222;
     color: #fff;
     padding: 2em;
