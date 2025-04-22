@@ -26,11 +26,12 @@ nav .navbar {
     color: #fff;
 }
 
-.main-content {
-    padding: 5em;
+ .main-content {
+    padding-top: 5em;
 }
 
-.portfolio-container {
+
+section {
     padding: 2em 1em;
     text-align: center;
 }
